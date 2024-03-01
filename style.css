@@ -1,0 +1,111 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.header {
+  background-image: url(logo.png);
+  height: 15vh;
+  background-size: cover;
+  padding: 100px;
+  padding-bottom: 250px;
+  background-color: #dde6ed;
+}
+.one {
+  display: flex;
+  background-color: rgb(67, 62, 62);
+  justify-content: center;
+  height: 8vh;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.two {
+  margin: 20px;
+  list-style-type: none;
+  font-weight: bold;
+  color: white;
+  font-size: large;
+}
+.thirtheen {
+  text-decoration: none;
+}
+.three {
+  height: 1250px;
+  background-color: #dde6ed;
+}
+.four {
+  background-image: url(pasat.jpeg);
+  background-size: cover;
+  height: 600px;
+  color: rgb(67, 62, 62);
+}
+.five {
+  padding-left: 50px;
+  padding-top: 50px;
+}
+.six {
+  background-color: #dde6ed;
+}
+.seven {
+  display: flex;
+}
+.eight {
+  background-color: #cbcbcb;
+  width: 100vw;
+  height: 80vh;
+  border: 1px solid #dde6ed;
+  margin: 10px;
+  border-radius: 30px;
+}
+.lione {
+  padding: 20px;
+}
+.litwo {
+  padding: 20px;
+  font-size: 40px;
+  font-weight: bold;
+}
+.lithree {
+  height: 300px;
+  margin: 20px;
+  border-radius: 20px;
+  background-image: url(menu1.jpeg);
+  background-size: cover;
+}
+.lifour {
+  background-color: black;
+  height: 300px;
+  margin: 20px;
+  border-radius: 20px;
+  margin-top: 57px;
+  background-image: url(time1.jpeg);
+  background-size: cover;
+}
+.lifive {
+  height: 300px;
+  margin: 20px;
+  border-radius: 20px;
+  background-image: url(table.jpeg);
+  background-size: cover;
+}
+.footerone {
+  display: flex;
+  background-color: #dde6ed;
+  justify-content: space-between;
+}
+.footertwo {
+  height: 90px;
+  width: 5vw;
+  background-image: url(logo3.png);
+  background-size: contain;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+.footerthree {
+  display: flex;
+  justify-content: end;
+  padding-right: 20px;
+  padding-top: 10px;
+  height: 100px;
+  width: 40vw;
+  border-top: 2px solid black;
+}
